@@ -17,26 +17,26 @@
             <div class="container-fluid header-wrapper " id="header"> <!-- this is the Header Wrapper -->
                 <div class="container">
                     <div class="title-wrapper">
-                        <div class="title-wrapper-inner">
+                        <div class="title-wrapper-inner" >
                             <a class="title title-only" href="/air_pollution/index.html">
                                 China Air Pollution Index
                             </a>
                         </div>
                     </div>  <!-- these are the titles -->
-                    <div class="navbar navbar-compact navbar1" id="mynav">
+                    <div class="navbar navbar-compact" id="mynav">
                         <div class="navbar-inner">
                             <div class="container">
                                 <div class="nav-collapse collapse">
                                     <ul class="nav" id="topMenu" data-submenu="horizontal">
-                                        <li class=" active ">
-                                            <a rel="nofollow"  href="">Real time</a>
+                                        <li class=" active " >
+                                            <a rel="nofollow"  href="">Real time &nbsp;</a>
                                             <ul>
                                                 <li><a href="real_time/one_city.html">One City</a></li>
                                                 <li><a href="real_time/multi_city.html">All Cities</a></li>
                                             </ul>
                                         </li>
                                         <li class=" active ">
-                                            <a rel="nofollow"  href="">History</a>
+                                            <a rel="nofollow"  href="">History &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
                                             <ul>
                                                 <li><a href="">One City</a></li>
                                                 <li><a href="">All Cities</a></li>
@@ -79,9 +79,9 @@
                                                 <div class="nav-collapse collapse">
                                                     <ul class="home_nav" id="topMenu" data-submenu="horizontal">
                                                         <li class=" active ">
-                                                            <a rel="nofollow">Real time</a>
+                                                            <a rel="nofollow" >Real time</a>
                                                             <ul>
-                                                                <li><a href="real_time/one_city.html">One City</a></li>
+                                                                <li><a href="real_time/one_city.html" >One City</a></li>
                                                                 <li><a href="real_time/multi_city.html">All Cities</a></li>
                                                             </ul>
                                                         </li>
@@ -177,17 +177,37 @@
             overflow: visible;
         }
 
-        .nav li ul{
-          display: none;
-        }
-        .nav li:hover ul{
-          display: block;
-          position: absolute; left: 0px; top: 21px;
-
-        }
         .nav li{
-          position: relative;
+            position: relative;
+            list-style-type: none;
 
         }
+
+        .nav li:hover ul{
+            display: block;
+            position: absolute; 
+            left: 0px; 
+            top: 20px;
+        }
+
+        .nav li ul{
+            display: none;
+            background-color: #8e9faf;
+            text-align: left;
+            margin: 0;
+            padding: 0 15px;
+            margin-top: 10px;
+        }
+
+        .nav li ul a{
+            display: inline-block;
+            color: #fff;
+            text-decoration: none;
+            line-height: 15px;
+
+        }
+
+
+
     </style>
 </html>

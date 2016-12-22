@@ -1,5 +1,5 @@
 <?php
-
+echo '
 <!DOCTYPE html>
 <html lang="en-US">
 <head>
@@ -74,4 +74,5 @@
          style="position: relative; z-index: 0; margin-top: 50px;"> <!-- this is the Content Wrapper -->
         <div class="container">
             <div class="row-fluid content-inner">
+'
 ?>

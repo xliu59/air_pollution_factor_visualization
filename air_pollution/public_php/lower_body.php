@@ -1,5 +1,5 @@
 <?php
-
+    echo '
     <div id="right" class="span3">
                     <div class="sidebar">
                         <div class="wrapper viral-box">
@@ -68,6 +68,6 @@
     }
 </style>
 </html>
-
+';
 
 ?>

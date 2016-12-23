@@ -1,4 +1,5 @@
-<?php  {{include '../public_php/header.php';}}  ?>
+<?php
+{{include '../public_php/header.php';}}  ?>
 
 <h2>One-City Hourly Pollution Index Data</h2>
 <!-- prepare a DOME (with height and width) for Echarts -->

@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f12ae3ee-e589-4a8c-877e-77dd13156fa2" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/air_pollution/emission/source.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/air_pollution/human/behavior.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/air_pollution/setting.php" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/air_pollution/natural/environment.html" afterPath="$PROJECT_DIR$/air_pollution/natural/environment.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/air_pollution/test.php" afterPath="$PROJECT_DIR$/air_pollution/tests/test.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/air_pollution/test1.php" afterPath="$PROJECT_DIR$/air_pollution/tests/test1.php" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/air_pollution/test2.php" afterPath="$PROJECT_DIR$/air_pollution/tests/test2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/air_pollution/index.html" afterPath="$PROJECT_DIR$/air_pollution/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pm25api.py" afterPath="$PROJECT_DIR$/pm25api.py" />
     </list>
     <ignored path="Documents.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -85,7 +78,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="behavior.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="behavior.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/air_pollution/human/behavior.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
@@ -95,12 +88,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/air_pollution/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="615">
-              <caret line="41" column="47" selection-start-line="41" selection-start-column="47" selection-end-line="41" selection-end-column="47" />
-              <folding />
+            <state relative-caret-position="199">
+              <caret line="69" column="70" selection-start-line="69" selection-start-column="70" selection-end-line="69" selection-end-column="70" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -140,11 +135,11 @@
       <list>
         <option value="$PROJECT_DIR$/pm25api.py" />
         <option value="$PROJECT_DIR$/air_pollution/natural/environment.html" />
-        <option value="$PROJECT_DIR$/air_pollution/index.html" />
         <option value="$PROJECT_DIR$/air_pollution/natural/environment.php" />
         <option value="$PROJECT_DIR$/air_pollution/emission/source.html" />
         <option value="$PROJECT_DIR$/air_pollution/emission/source.php" />
         <option value="$PROJECT_DIR$/air_pollution/human/behavior.php" />
+        <option value="$PROJECT_DIR$/air_pollution/index.html" />
       </list>
     </option>
   </component>
@@ -944,12 +939,12 @@
       <option name="presentableId" value="Default" />
       <updated>1482480524033</updated>
       <workItem from="1482480525797" duration="37000" />
-      <workItem from="1482480591391" duration="6663000" />
+      <workItem from="1482480591391" duration="7516000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6700000" />
+    <option name="totallyTimeSpent" value="7553000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
@@ -1087,19 +1082,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/air_pollution/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="615">
-          <caret line="41" column="47" selection-start-line="41" selection-start-column="47" selection-end-line="41" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/air_pollution/human/behavior.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="103" column="28" selection-start-line="103" selection-start-column="28" selection-end-line="103" selection-end-column="28" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/air_pollution/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="69" column="70" selection-start-line="69" selection-start-column="70" selection-end-line="69" selection-end-column="70" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

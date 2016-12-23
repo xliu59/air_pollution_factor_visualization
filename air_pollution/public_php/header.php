@@ -48,8 +48,8 @@ echo '
                                         <li class=" active ">
                                             <a rel="nofollow"  href="">History &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
                                             <ul>
-                                                <li><a href="">One City</a></li>
-                                                <li><a href="">All Cities</a></li>
+                                                <li><a href="history/one_city.php">One City</a></li>
+                                                <li><a href="history/multi_city.php">All Cities</a></li>
                                             </ul>
                                         </li>
                                         <li class=" active ">

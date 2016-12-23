@@ -1,6 +1,6 @@
 <?php {{include '../public_php/header.php';}}  ?>
 
-<h2>Natrual conditions's influence on air PM2.5 dencity</h2><br/>
+<h2>Emission source's influence on air PM2.5 dencity</h2><br/>
 <!-- prepare a DOME (with height and width) for Echarts -->
 <div id="main1" style="width: 600px;height:400px;"></div>
 <div id="main2" style="width: 600px;height:400px;"></div>

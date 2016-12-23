@@ -1,6 +1,6 @@
 <?php {{include '../public_php/header.php';}}  ?>
 
-<h2>Natrual conditions's influence on air PM2.5 dencity</h2><br/>
+<h2>Human Behavior's influence on air PM2.5 dencity</h2><br/>
 <!-- prepare a DOME (with height and width) for Echarts -->
 <div id="main1" style="width: 600px;height:400px;"></div>
 <br/>
@@ -39,10 +39,10 @@
         },
         xAxis: [{
             type: 'category',
-            data: ['07/20 周三', '07/21 周五', '07/22 周六',
-                '07/23 周日', '07/24 周一', '07/25 周二',
-                '07/26 周三', '07/27 周四', '07/28 周五',
-                '07/29 周六', '07/30 周日', '07/31 周一'],
+            data: ['07/20 Wednesday', '07/21 Friday', '07/22 Saturday',
+                '07/23 Sunday', '07/24 Monday', '07/25 Tuesday',
+                '07/26 Wednesday', '07/27 Thursday', '07/28 Friday',
+                '07/29 Saturday', '07/30 Sunday', '07/31 Monday'],
             splitLine: {
                 show: false
             },
@@ -117,10 +117,10 @@
         },
         xAxis: [{
             type: 'category',
-            data: ['07/20 周三', '07/21 周五', '07/22 周六',
-                '07/23 周日', '07/24 周一', '07/25 周二',
-                '07/26 周三', '07/27 周四', '07/28 周五',
-                '07/29 周六', '07/30 周日', '07/31 周一'],
+            data: ['07/20 Christmas', '07/21 Thanks Giving', '07/22 Labor Day',
+                '07/23 First of July', '07/24 Mid Autumn Festival', '07/25 Father\'s Day',
+                '07/26 Chinese New Year', '07/27 Family Festival', '07/28 Single Festival',
+                '07/29 National Day', '07/30 Children\'s Day', '07/31 Lunar Festival'],
             splitLine: {
                 show: false
             },

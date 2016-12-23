@@ -590,7 +590,7 @@
     <br/>
     <br/>
 
-    <h3>Detail proportions on the top-5 cities under the above condition<h3/>
+    <h3>Proportion of days on the top-5 cities under the above condition<h3/>
     <!-- prepare a DOME (with height and width) for Echarts -->
     <div id="main1" style="width: 600px;height:400px;"></div>
     <div id="main2" style="width: 600px;height:400px;"></div>

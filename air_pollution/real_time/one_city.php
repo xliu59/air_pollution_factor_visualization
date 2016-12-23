@@ -1,7 +1,7 @@
 <?php
 {{include '../public_php/header.php';}}  ?>
 
-<h2>One-City Hourly Pollution Index Data</h2>
+<h2>City Hourly Pollution Index</h2>
 <!-- prepare a DOME (with height and width) for Echarts -->
 <div id="main" style="width: 600px;height:400px;"></div>
 
@@ -167,7 +167,7 @@
             detail: {
                 textStyle: { // 其余属性默认使用全局文本样式，详见TEXTSTYLE
                     fontWeight: 'bolder',
-                    fontSize: 10,
+                    fontSize: 10
                 },
                 formatter: function(v) {
                     switch (v + '') {

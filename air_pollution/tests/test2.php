@@ -1,4 +1,5 @@
-<?php {{include './public_php/header.php';}}  ?>
+<?php {{
+    include './public_php/header.php';}}  ?>
 
 <h2>One-City History Data</h2>
 <!-- prepare a DOME (with height and width) for Echarts -->
@@ -34,8 +35,12 @@
 
 
 <?php
-{{include './public_php/sidebar_start.php';}}
-{{include './public_php/level_bar.php';}}
-{{include './public_php/date_bar.php';}}
-{{include './public_php/footer.php';}}
+{{
+    include './public_php/sidebar_start.php';}}
+{{
+    include './public_php/level_bar.php';}}
+{{
+    include './public_php/date_bar.php';}}
+{{
+    include './public_php/footer.php';}}
 ?>

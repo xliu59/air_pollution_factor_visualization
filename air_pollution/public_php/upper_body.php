@@ -35,7 +35,7 @@ echo '
                                 <li class=" active ">
                                     <a rel="nofollow"  href="">Real time</a>
                                     <ul>
-                                        <li><a href="real_time/one_city.html">One City</a></li>
+                                        <li><a href="real_time/one_city.php">One City</a></li>
                                         <li><a href="real_time/multi_city.html">All Cities</a></li>
                                     </ul>
                                 </li>

@@ -3,6 +3,7 @@ DROP TABLE City;
 CREATE TABLE City (
     City_Code INT NOT NULL,
     City_name VARCHAR(200) NOT NULL,
+    City_name_en VARCHAR(200) NOT NULL,
     Province VARCHAR(200) NOT NULL,
     Longitude FLOAT,
     Latitude FLOAT,

@@ -5,6 +5,7 @@
  * Date: 12/22/16
  * Time: 1:54 PM
  */
+
 echo '
 <!DOCTYPE html>
 <html lang="en-US">
@@ -41,32 +42,32 @@ echo '
                                         <li class=" active " >
                                             <a rel="nofollow"  href="">Real time &nbsp;</a>
                                             <ul>
-                                                <li><a href="real_time/one_city.php">One City</a></li>
-                                                <li><a href="real_time/multi_city.php">All Cities</a></li>
+                                                <li><a id="realtime_onecity" href="real_time/one_city.php">One City</a></li>
+                                                <li><a id="realtime_multicity" href="real_time/multi_city.php">All Cities</a></li>
                                             </ul>
                                         </li>
                                         <li class=" active ">
                                             <a rel="nofollow"  href="">History &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
                                             <ul>
-                                                <li><a href="history/one_city.php">One City</a></li>
-                                                <li><a href="history/multi_city.php">All Cities</a></li>
+                                                <li><a id="history_onecity" href="history/one_city.php">One City</a></li>
+                                                <li><a id="history_multicity" href="history/multi_city.php">All Cities</a></li>
                                             </ul>
                                         </li>
                                         <li class=" active ">
                                             <a rel="nofollow"  href="">Peak value</a>
                                             <ul>
-                                                <li><a href="">One City</a></li>
-                                                <li><a href="">All Cities</a></li>
+                                                <li><a id="peak_onecity" href="peak/one_city.php">One City</a></li>
+                                                <li><a id="peak_multicity" href="peak/multi_city.php">All Cities</a></li>
                                             </ul>
                                         </li>
                                         <li class=" active ">
-                                            <a rel="nofollow"  href="">Natural environment</a>
+                                            <a rel="nofollow" id="natural_env" href="natural/environment.php">Natural environment</a>
                                         </li>
                                         <li class=" active ">
-                                            <a rel="nofollow"  href="">Emission source</a>
+                                            <a rel="nofollow"  id="emission_src" href="emission/source.php">Emission source</a>
                                         </li>
                                         <li class=" active ">
-                                            <a rel="nofollow"  href="">Human Behavior</a>
+                                            <a rel="nofollow"  id="human_bhv" href="human/behavior.php">Human Behavior</a>
                                         </li>
                                     </ul>
                                 </div> <!-- nav-collapse ends -->

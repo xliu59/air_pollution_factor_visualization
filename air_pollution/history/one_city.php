@@ -1,4 +1,7 @@
-<?php {{include '../public_php/header.php';}}  ?>
+<?php {{include '../public_php/header.php';}}
+
+    echo $_BASE_;
+?>
 
     <h2>One-City History Pm2.5 Tendency</h2>
     <!-- prepare a DOME (with height and width) for Echarts -->

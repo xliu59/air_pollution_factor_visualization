@@ -71,7 +71,7 @@ This project is still ongoing. We have finished real-time data retrieval, stored
 
 ## Project Output (some screenshots)
 
-![home page](https://github.com/xliu59/air_pollution/screeshot/homepage.png "home page")
+![home page](./screeshot/homepage.png "home page")
 
 ![screen_shot](https://github.com/xliu59/air_pollution/screeshot/Picture1.png "screen_shot")
 

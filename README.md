@@ -71,23 +71,23 @@ This project is still ongoing. We have finished real-time data retrieval, stored
 
 ## Project Output (some screenshots)
 
-![home page](/Users/lxx/Documents/Baltimore/Homework/16fall/Database/Final Project/Phase2/screeshot/homepage.png "home page")
+![home page](https://github.com/xliu59/air_pollution/screeshot/homepage.png "home page")
 
-![screen_shot](air_pollution/screeshot/Picture1.png "screen_shot")
+![screen_shot](https://github.com/xliu59/air_pollution/screeshot/Picture1.png "screen_shot")
 
-![screen_shot](air_pollution/screeshot/Picture2.png "screen_shot")
+![screen_shot](https://github.com/xliu59/air_pollution/screeshot/Picture2.png "screen_shot")
 
-![screen_shot](air_pollution/screeshot/Picture3.png "screen_shot")
+![screen_shot](https://github.com/xliu59/air_pollution/screeshot/Picture3.png "screen_shot")
 
-![screen_shot](air_pollution/screeshot/Picture4.png "screen_shot")
+![screen_shot](https://github.com/xliu59/air_pollution/screeshot/Picture4.png "screen_shot")
 
-![screen_shot](air_pollution/screeshot/Picture5.png "screen_shot")
+![screen_shot](https://github.com/xliu59/air_pollution/screeshot/Picture5.png "screen_shot")
 
-![screen_shot](air_pollution/screeshot/Picture6.png "screen_shot")
+![screen_shot](https://github.com/xliu59/air_pollution/screeshot/Picture6.png "screen_shot")
 
-![screen_shot](air_pollution/screeshot/Picture7.png "screen_shot")
+![screen_shot](https://github.com/xliu59/air_pollution/screeshot/Picture7.png "screen_shot")
 
-![screen_shot](air_pollution/screeshot/Picture8.png "screen_shot")
+![screen_shot](https://github.com/xliu59/air_pollution/screeshot/Picture8.png "screen_shot")
 
 
 

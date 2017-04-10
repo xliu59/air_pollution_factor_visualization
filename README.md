@@ -73,21 +73,21 @@ This project is still ongoing. We have finished real-time data retrieval, stored
 
 ![home page](/Users/lxx/Documents/Baltimore/Homework/16fall/Database/Final Project/Phase2/screeshot/homepage.png "home page")
 
-![screen_shot](/Users/lxx/Documents/Baltimore/Homework/16fall/Database/Final Project/Phase2/screeshot/Picture1.png "screen_shot")
+![screen_shot](air_pollution/screeshot/Picture1.png "screen_shot")
 
-![screen_shot](/Users/lxx/Documents/Baltimore/Homework/16fall/Database/Final Project/Phase2/screeshot/Picture2.png "screen_shot")
+![screen_shot](air_pollution/screeshot/Picture2.png "screen_shot")
 
-![screen_shot](/Users/lxx/Documents/Baltimore/Homework/16fall/Database/Final Project/Phase2/screeshot/Picture3.png "screen_shot")
+![screen_shot](air_pollution/screeshot/Picture3.png "screen_shot")
 
-![screen_shot](/Users/lxx/Documents/Baltimore/Homework/16fall/Database/Final Project/Phase2/screeshot/Picture4.png "screen_shot")
+![screen_shot](air_pollution/screeshot/Picture4.png "screen_shot")
 
-![screen_shot](/Users/lxx/Documents/Baltimore/Homework/16fall/Database/Final Project/Phase2/screeshot/Picture5.png "screen_shot")
+![screen_shot](air_pollution/screeshot/Picture5.png "screen_shot")
 
-![screen_shot](/Users/lxx/Documents/Baltimore/Homework/16fall/Database/Final Project/Phase2/screeshot/Picture6.png "screen_shot")
+![screen_shot](air_pollution/screeshot/Picture6.png "screen_shot")
 
-![screen_shot](/Users/lxx/Documents/Baltimore/Homework/16fall/Database/Final Project/Phase2/screeshot/Picture7.png "screen_shot")
+![screen_shot](air_pollution/screeshot/Picture7.png "screen_shot")
 
-![screen_shot](/Users/lxx/Documents/Baltimore/Homework/16fall/Database/Final Project/Phase2/screeshot/Picture8.png "screen_shot")
+![screen_shot](air_pollution/screeshot/Picture8.png "screen_shot")
 
 
 

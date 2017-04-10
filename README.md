@@ -73,21 +73,21 @@ This project is still ongoing. We have finished real-time data retrieval, stored
 
 ![home page](./screeshot/homepage.png "home page")
 
-![screen_shot](https://github.com/xliu59/air_pollution/screeshot/Picture1.png "screen_shot")
+![screen_shot](./screeshot/Picture1.png "screen_shot")
 
-![screen_shot](https://github.com/xliu59/air_pollution/screeshot/Picture2.png "screen_shot")
+![screen_shot](./screeshot/Picture2.png "screen_shot")
 
-![screen_shot](https://github.com/xliu59/air_pollution/screeshot/Picture3.png "screen_shot")
+![screen_shot](./screeshot/Picture3.png "screen_shot")
 
-![screen_shot](https://github.com/xliu59/air_pollution/screeshot/Picture4.png "screen_shot")
+![screen_shot](./screeshot/Picture4.png "screen_shot")
 
-![screen_shot](https://github.com/xliu59/air_pollution/screeshot/Picture5.png "screen_shot")
+![screen_shot](./screeshot/Picture5.png "screen_shot")
 
-![screen_shot](https://github.com/xliu59/air_pollution/screeshot/Picture6.png "screen_shot")
+![screen_shot](./screeshot/Picture6.png "screen_shot")
 
-![screen_shot](https://github.com/xliu59/air_pollution/screeshot/Picture7.png "screen_shot")
+![screen_shot](./screeshot/Picture7.png "screen_shot")
 
-![screen_shot](https://github.com/xliu59/air_pollution/screeshot/Picture8.png "screen_shot")
+![screen_shot](./screeshot/Picture8.png "screen_shot")
 
 
 

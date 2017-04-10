@@ -1,11 +1,11 @@
 # China Air Pollution Data Monitoring Web System
 
-##Contributer: 
+## Contributer: 
 Xiaoxiao Liu	 (xliu91@jhu.edu) 
 
 Da Chen    (dachen78@jhu.edu)
 
-##Domain:
+## Domain:
 Through this database, we provide real-time data and comparisons between different attributes of air quality for different cities in China. The purpose is to demonstrate regional air pollution statistic data and potential major causes for different cities.
 
 ##Areas of specialization

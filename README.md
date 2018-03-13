@@ -66,7 +66,7 @@ We use LAMP architecture. To run our project:
 
 
 ## Limitations
-This project is still ongoing. We have finished real-time data retrieval, stored procedures, front-end data visualization, and some back-end logics to handle request. We are still working on the server side and currently it only shows data that is pre-selected. The sidebar for selecting dates and cities is to be implemented. We are confident that when finished, this web project will be useful, accurate and stable.
+We have finished real-time data retrieval, stored procedures, front-end data visualization, and some back-end logics to handle request. We are still working on the server side and currently it only shows data that is pre-selected. The sidebar for selecting dates and cities is to be implemented. We are confident that when finished, this web project will be useful, accurate and stable.
 
 
 ## Project Output (some screenshots)

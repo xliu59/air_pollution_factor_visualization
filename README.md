@@ -59,7 +59,6 @@ Github link: https://github.com/xliu59/air_pollution
 We use LAMP architecture. To run our project:  
 1. Clone our repo <https://github.com/xliu59/air_pollution.git> to your local webserver root and  
 2. Change the database params to yours in conf.php  
-3. 
 3. Run CreateDB.sql to create schema and populate your Mysql Database.  
 4. Open \<your\_root\>/air_pollution/index.html  
 
